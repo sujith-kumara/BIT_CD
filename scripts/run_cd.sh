@@ -7,7 +7,7 @@ data_name=LEVIR
 img_size=256
 batch_size=8
 lr=0.01
-max_epochs=200
+max_epochs=100
 net_G=base_transformer_pos_s4_dd8
 #base_resnet18
 #base_transformer_pos_s4_dd8
